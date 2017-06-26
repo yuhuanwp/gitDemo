@@ -1,1 +1,2 @@
 hello git
+add version 2
